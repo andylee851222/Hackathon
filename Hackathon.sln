@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon01", "Hackathon01\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon02", "Hackathon02\Hackathon02.csproj", "{38263819-96FA-46DE-B480-4A83D2323732}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon06", "Hackathon06\Hackathon06.csproj", "{9C7BFDE2-BF9B-46F6-BF10-CE38663B9B37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{38263819-96FA-46DE-B480-4A83D2323732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38263819-96FA-46DE-B480-4A83D2323732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38263819-96FA-46DE-B480-4A83D2323732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7BFDE2-BF9B-46F6-BF10-CE38663B9B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7BFDE2-BF9B-46F6-BF10-CE38663B9B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7BFDE2-BF9B-46F6-BF10-CE38663B9B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7BFDE2-BF9B-46F6-BF10-CE38663B9B37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
